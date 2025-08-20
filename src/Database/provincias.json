@@ -1,0 +1,316 @@
+{
+    "provincias": [
+        { 
+            "nombre": "Buenos Aires",
+            "capital": "La Plata",
+            "poblacion": 17523996,
+            "superficie": 307571,
+            "gentilicio": "bonaerense",
+            "fecha_autonomia": "11 de febrero de 1820",
+            "abreviatura": "BA",
+            "ciudad_mas_poblada": {
+                "nombre": "La Plata",
+                "habitantes": 768470
+            }
+        },
+        { 
+            "nombre": "Ciudad Autonoma de Buenos Aires",
+            "capital": "",
+            "poblacion": 3121707,
+            "superficie": 200,
+            "gentilicio": "porteño",
+            "fecha_autonomia": "10 de Octubre de 1996",
+            "abreviatura": "CABA",
+            "ciudad_mas_poblada": {
+                "nombre": "Ciudad Autónoma de Buenos Aires",
+                "habitantes": 3121707
+            }
+        },
+        {
+            "nombre": "Catamarca",
+            "capital": "San Fernando del Valle de Catamarca",
+            "poblacion": 429562,
+            "superficie": 102602,
+            "gentilicio": "catamarqueño",
+            "fecha_autonomia": "25 de agosto de 1821",
+            "abreviatura": "CA",
+            "ciudad_mas_poblada": {
+                "nombre": "San Fernando del Valle de Catamarca",
+                "habitantes": 220000
+            }
+        },
+        {
+            "nombre": "Chaco",
+            "capital": "Resistencia",
+            "poblacion": 1129606,
+            "superficie": 99633,
+            "gentilicio": "chaqueño",
+            "fecha_autonomia": "8 de agosto de 1951",
+            "abreviatura": "CH",
+            "ciudad_mas_poblada": {
+                "nombre": "Resistencia",
+                "habitantes": 308361
+            }
+        },
+        {
+            "nombre": "Chubut",
+            "capital": "Rawson",
+            "poblacion": 592621,
+            "superficie": 224686,
+            "gentilicio": "chubutense",
+            "fecha_autonomia": "15 de junio de 1955",
+            "abreviatura": "CT",
+            "ciudad_mas_poblada": {
+                "nombre": "Comodoro Rivadavia",
+                "habitantes": 193554
+            }
+        },
+        {
+            "nombre": "Córdoba",
+            "capital": "Córdoba",
+            "poblacion": 3840905,
+            "superficie": 165321,
+            "gentilicio": "cordobés",
+            "fecha_autonomia": "5 de enero de 1820",
+            "abreviatura": "CB",
+            "ciudad_mas_poblada": {
+                "nombre": "Córdoba",
+                "habitantes": 1565112
+            }
+        },
+        {
+            "nombre": "Corrientes",
+            "capital": "Corrientes",
+            "poblacion": 1212696,
+            "superficie": 88199,
+            "gentilicio": "correntino",
+            "fecha_autonomia": "20 de abril de 1814",
+            "abreviatura": "CR",
+            "ciudad_mas_poblada": {
+                "nombre": "Corrientes",
+                "habitantes": 357037
+            }
+        },
+        {
+            "nombre": "Entre Ríos",
+            "capital": "Paraná",
+            "poblacion": 1425578,
+            "superficie": 78781,
+            "gentilicio": "entrerriano",
+            "fecha_autonomia": "23 de abril de 1814",
+            "abreviatura": "ER",
+            "ciudad_mas_poblada": {
+                "nombre": "Paraná",
+                "habitantes": 264073
+            }
+        },
+        {
+            "nombre": "Formosa",
+            "capital": "Formosa",
+            "poblacion": 607419,
+            "superficie": 72066,
+            "gentilicio": "formoseño",
+            "fecha_autonomia": "15 de junio de 1955",
+            "abreviatura": "FO",
+            "ciudad_mas_poblada": {
+                "nombre": "Formosa",
+                "habitantes": 247563
+            }
+        },
+        {
+            "nombre": "Jujuy",
+            "capital": "San Salvador de Jujuy",
+            "poblacion": 811611,
+            "superficie": 53219,
+            "gentilicio": "jujeño",
+            "fecha_autonomia": "17 de diciembre de 1836",
+            "abreviatura": "JY",
+            "ciudad_mas_poblada": {
+                "nombre": "San Salvador de Jujuy",
+                "habitantes": 265249
+            }
+        },
+        {
+            "nombre": "La Pampa",
+            "capital": "Santa Rosa",
+            "poblacion": 361859,
+            "superficie": 143440,
+            "gentilicio": "pampeano",
+            "fecha_autonomia": "8 de agosto de 1951",
+            "abreviatura": "LP",
+            "ciudad_mas_poblada": {
+                "nombre": "Santa Rosa",
+                "habitantes": 124101
+            }
+        },
+        {
+            "nombre": "La Rioja",
+            "capital": "La Rioja",
+            "poblacion": 383865,
+            "superficie": 89680,
+            "gentilicio": "riojano",
+            "fecha_autonomia": "1 de marzo de 1820",
+            "abreviatura": "LR",
+            "ciudad_mas_poblada": {
+                "nombre": "La Rioja",
+                "habitantes": 180995
+            }
+        },
+        {
+            "nombre": "Mendoza",
+            "capital": "Mendoza",
+            "poblacion": 2043540,
+            "superficie": 148827,
+            "gentilicio": "mendocino",
+            "fecha_autonomia": "1 de marzo de 1820",
+            "abreviatura": "MZ",
+            "ciudad_mas_poblada": {
+                "nombre": "Mendoza",
+                "habitantes": 114822
+            }
+        },
+        {
+            "nombre": "Misiones",
+            "capital": "Posadas",
+            "poblacion": 1278873,
+            "superficie": 29801,
+            "gentilicio": "misionero",
+            "fecha_autonomia": "10 de diciembre de 1953",
+            "abreviatura": "MI",
+            "ciudad_mas_poblada": {
+                "nombre": "Posadas",
+                "habitantes": 327143
+            }
+        },
+        {
+            "nombre": "Neuquén",
+            "capital": "Neuquén",
+            "poblacion": 710814,
+            "superficie": 94078,
+            "gentilicio": "neuquino",
+            "fecha_autonomia": "15 de junio de 1955",
+            "abreviatura": "NQ",
+            "ciudad_mas_poblada": {
+                "nombre": "Neuquén",
+                "habitantes": 280335
+            }
+        },
+        {
+            "nombre": "Río Negro",
+            "capital": "Viedma",
+            "poblacion": 750768,
+            "superficie": 203013,
+            "gentilicio": "rionegrino",
+            "fecha_autonomia": "15 de junio de 1955",
+            "abreviatura": "RN",
+            "ciudad_mas_poblada": {
+                "nombre": "General Roca",
+                "habitantes": 99756
+            }
+        },
+        {
+            "nombre": "Salta",
+            "capital": "Salta",
+            "poblacion": 1441351,
+            "superficie": 155488,
+            "gentilicio": "salteño",
+            "fecha_autonomia": "17 de diciembre de 1836",
+            "abreviatura": "SA",
+            "ciudad_mas_poblada": {
+                "nombre": "Salta",
+                "habitantes": 618364
+            }
+        },
+        {
+            "nombre": "San Juan",
+            "capital": "San Juan",
+            "poblacion": 822853,
+            "superficie": 89651,
+            "gentilicio": "sanjuanino",
+            "fecha_autonomia": "1 de marzo de 1820",
+            "abreviatura": "SJ",
+            "ciudad_mas_poblada": {
+                "nombre": "San Juan",
+                "habitantes": 112778
+            }
+        },
+        {
+            "nombre": "San Luis",
+            "capital": "San Luis",
+            "poblacion": 542069,
+            "superficie": 76748,
+            "gentilicio": "puntano",
+            "fecha_autonomia": "1 de marzo de 1820",
+            "abreviatura": "SL",
+            "ciudad_mas_poblada": {
+                "nombre": "San Luis",
+                "habitantes": 180283
+            }
+        },
+        {
+            "nombre": "Santa Cruz",
+            "capital": "Río Gallegos",
+            "poblacion": 337226,
+            "superficie": 243943,
+            "gentilicio": "santacruceño",
+            "fecha_autonomia": "22 de noviembre de 1956",
+            "abreviatura": "SC",
+            "ciudad_mas_poblada": {
+                "nombre": "Río Gallegos",
+                "habitantes": 105796
+            }
+        },
+        {
+            "nombre": "Santa Fe",
+            "capital": "Santa Fe",
+            "poblacion": 3544908,
+            "superficie": 133007,
+            "gentilicio": "santafesino",
+            "fecha_autonomia": "10 de mayo de 1816",
+            "abreviatura": "SF",
+            "ciudad_mas_poblada": {
+                "nombre": "Rosario",
+                "habitantes": 1342619
+            }
+        },
+        {
+            "nombre": "Santiago del Estero",
+            "capital": "Santiago del Estero",
+            "poblacion": 1060906,
+            "superficie": 136351,
+            "gentilicio": "santiagueño",
+            "fecha_autonomia": "27 de abril de 1820",
+            "abreviatura": "SE",
+            "ciudad_mas_poblada": {
+                "nombre": "Santiago del Estero",
+                "habitantes": 296939
+            }
+        },
+        {
+            "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+            "capital": "Ushuaia",
+            "poblacion": 185732,
+            "superficie": 21571,
+            "gentilicio": "fueguino",
+            "fecha_autonomia": "26 de abril de 1990",
+            "abreviatura": "TF",
+            "ciudad_mas_poblada": {
+                "nombre": "Ushuaia",
+                "habitantes": 82615
+            }
+        },
+        {
+            "nombre": "Tucumán",
+            "capital": "San Miguel de Tucumán",
+            "poblacion": 1731820,
+            "superficie": 22524,
+            "gentilicio": "tucumano",
+            "fecha_autonomia": "25 de noviembre de 1825",
+            "abreviatura": "TU",
+            "ciudad_mas_poblada": {
+                "nombre": "San Miguel de Tucumán",
+                "habitantes": 807708
+            }
+        }
+    ]
+}
