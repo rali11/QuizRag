@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Tests\Integration\RAG\VectorStore;
+namespace App\Tests\RAG\VectorStore;
 
 use App\RAG\VectorStore\DocumentDoctrineVectorStore;
 use Doctrine\ORM\EntityManagerInterface;
