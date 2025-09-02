@@ -12,9 +12,7 @@ class DocumentDoctrineVectorStore implements VectorStoreInterface
 {
     public function __construct(
         private EntityManagerInterface $entityManager
-    )   
-    {
-    }
+    ) {}
 
     public function addDocument(Document $document): VectorStoreInterface
     {
@@ -34,7 +32,7 @@ class DocumentDoctrineVectorStore implements VectorStoreInterface
         }
 
         $this->entityManager->flush();
-        
+
         return $this;
     }
 
@@ -64,10 +62,10 @@ class DocumentDoctrineVectorStore implements VectorStoreInterface
 
         $databaseConnection = $this->entityManager->getConnection();
         $results = $databaseConnection
-                        ->executeQuery($sql, ['embedding' => new Vector($embedding), 'limit' => $k])
-                        ->fetchAllAssociative();
+            ->executeQuery($sql, ['embedding' => new Vector($embedding), 'limit' => $k])
+            ->fetchAllAssociative();
 
-        return array_map(function ($row){
+        return array_map(function ($row) {
             $document = new Document();
             $document->id = $row['id'];
             $document->embedding = new Vector($row['embedding'])->toArray();
