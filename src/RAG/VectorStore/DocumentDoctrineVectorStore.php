@@ -53,6 +53,7 @@ class DocumentDoctrineVectorStore implements VectorStoreInterface
             SELECT 
                 id, 
                 metadata, 
+                content,
                 embedding, 
                 1 - (embedding <=> :embedding) as cosine_similarity
             FROM document
@@ -69,6 +70,7 @@ class DocumentDoctrineVectorStore implements VectorStoreInterface
             $document = new Document();
             $document->id = $row['id'];
             $document->embedding = new Vector($row['embedding'])->toArray();
+            $document->content = $row['content'];
             $document->setScore($row['cosine_similarity']);
 
             $metadata = json_decode($row['metadata'], true);
