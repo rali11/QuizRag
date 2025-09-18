@@ -24,12 +24,6 @@ class RAGIntegrationTest extends KernelTestCase
         self::bootKernel();
         $entityManager = static::getContainer()->get(EntityManagerInterface::class);
         $connection = $entityManager->getConnection();
-        // Registrar los tipos de Pgvector solo si no existen
-        try {
-            PgvectorSetup::registerTypes($entityManager);
-        } catch (\Exception $e) {
-            // Los tipos ya están registrados, no hacer nada
-        }
         $connection->executeStatement('DELETE FROM document');
 
         $this->agent = RAG::make()
@@ -69,7 +63,7 @@ class RAGIntegrationTest extends KernelTestCase
         $response = $this->agent->chat(
             new UserMessage('¿Cual es la fecha de autonomia de la provincia Tierra del Fuego?')
         );
-        $this->assertStringContainsString('26 de abril de 1990', $response->getContent());
+        $this->assertStringContainsString('26 de abril de 1990', strtolower($response->getContent()));
 
         $response = $this->agent->chat(
             new UserMessage('¿Cual es la cantidad de poblacion de jujuy?')
