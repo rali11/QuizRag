@@ -7,7 +7,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de Buenos Aires es de 17523996."},
                 {"nombre_campo": "superficie", "content": "La superficie de Buenos Aires es de 307571."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de Buenos Aires es bonaerense."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Buenos Aires es el 11 de febrero de 1820."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Buenos Aires es el 11 de Febrero de 1820."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de Buenos Aires es BA."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de Buenos Aires es La Plata, con 768470 habitantes."}
             ]
@@ -31,7 +31,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de Catamarca es de 429562."},
                 {"nombre_campo": "superficie", "content": "La superficie de Catamarca es de 102602."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de Catamarca es catamarqueño."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Catamarca es el 25 de agosto de 1821."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Catamarca es el 25 de Agosto de 1821."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de Catamarca es CA."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de Catamarca es San Fernando del Valle de Catamarca, con 220000 habitantes."}
             ]
@@ -43,7 +43,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de Chaco es de 1129606."},
                 {"nombre_campo": "superficie", "content": "La superficie de Chaco es de 99633."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de Chaco es chaqueño."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Chaco es el 8 de agosto de 1951."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Chaco es el 8 de Agosto de 1951."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de Chaco es CH."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de Chaco es Resistencia, con 308361 habitantes."}
             ]
@@ -55,7 +55,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de Chubut es de 592621."},
                 {"nombre_campo": "superficie", "content": "La superficie de Chubut es de 224686."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de Chubut es chubutense."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Chubut es el 15 de junio de 1955."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Chubut es el 15 de Junio de 1955."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de Chubut es CT."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de Chubut es Comodoro Rivadavia, con 193554 habitantes."}
             ]
@@ -67,7 +67,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de Córdoba es de 3840905."},
                 {"nombre_campo": "superficie", "content": "La superficie de Córdoba es de 165321."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de Córdoba es cordobés."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Córdoba es el 5 de enero de 1820."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Córdoba es el 5 de Enero de 1820."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de Córdoba es CB."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de Córdoba es Córdoba, con 1565112 habitantes."}
             ]
@@ -79,7 +79,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de Corrientes es de 1212696."},
                 {"nombre_campo": "superficie", "content": "La superficie de Corrientes es de 88199."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de Corrientes es correntino."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Corrientes es el 20 de abril de 1814."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Corrientes es el 20 de Abril de 1814."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de Corrientes es CR."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de Corrientes es Corrientes, con 357037 habitantes."}
             ]
@@ -91,7 +91,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de Entre Ríos es de 1425578."},
                 {"nombre_campo": "superficie", "content": "La superficie de Entre Ríos es de 78781."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de Entre Ríos es entrerriano."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Entre Ríos es el 23 de abril de 1814."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Entre Ríos es el 23 de Abril de 1814."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de Entre Ríos es ER."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de Entre Ríos es Paraná, con 264073 habitantes."}
             ]
@@ -103,7 +103,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de Formosa es de 607419."},
                 {"nombre_campo": "superficie", "content": "La superficie de Formosa es de 72066."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de Formosa es formoseño."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Formosa es el 15 de junio de 1955."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Formosa es el 15 de Junio de 1955."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de Formosa es FO."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de Formosa es Formosa, con 247563 habitantes."}
             ]
@@ -115,7 +115,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de Jujuy es de 811611."},
                 {"nombre_campo": "superficie", "content": "La superficie de Jujuy es de 53219."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de Jujuy es jujeño."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Jujuy es el 17 de diciembre de 1836."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Jujuy es el 17 de Diciembre de 1836."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de Jujuy es JY."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de Jujuy es San Salvador de Jujuy, con 265249 habitantes."}
             ]
@@ -127,7 +127,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de La Pampa es de 361859."},
                 {"nombre_campo": "superficie", "content": "La superficie de La Pampa es de 143440."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de La Pampa es pampeano."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de La Pampa es el 8 de agosto de 1951."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de La Pampa es el 8 de Agosto de 1951."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de La Pampa es LP."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de La Pampa es Santa Rosa, con 124101 habitantes."}
             ]
@@ -139,7 +139,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de La Rioja es de 383865."},
                 {"nombre_campo": "superficie", "content": "La superficie de La Rioja es de 89680."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de La Rioja es riojano."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de La Rioja es el 1 de marzo de 1820."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de La Rioja es el 1 de Marzo de 1820."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de La Rioja es LR."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de La Rioja es La Rioja, con 180995 habitantes."}
             ]
@@ -151,7 +151,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de Mendoza es de 2043540."},
                 {"nombre_campo": "superficie", "content": "La superficie de Mendoza es de 148827."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de Mendoza es mendocino."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Mendoza es el 1 de marzo de 1820."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Mendoza es el 1 de Marzo de 1820."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de Mendoza es MZ."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de Mendoza es Mendoza, con 114822 habitantes."}
             ]
@@ -163,7 +163,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de Misiones es de 1278873."},
                 {"nombre_campo": "superficie", "content": "La superficie de Misiones es de 29801."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de Misiones es misionero."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Misiones es el 10 de diciembre de 1953."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Misiones es el 10 de Diciembre de 1953."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de Misiones es MI."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de Misiones es Posadas, con 327143 habitantes."}
             ]
@@ -175,7 +175,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de Neuquén es de 710814."},
                 {"nombre_campo": "superficie", "content": "La superficie de Neuquén es de 94078."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de Neuquén es neuquino."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Neuquén es el 15 de junio de 1955."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Neuquén es el 15 de Junio de 1955."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de Neuquén es NQ."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de Neuquén es Neuquén, con 280335 habitantes."}
             ]
@@ -187,7 +187,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de Río Negro es de 750768."},
                 {"nombre_campo": "superficie", "content": "La superficie de Río Negro es de 203013."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de Río Negro es rionegrino."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Río Negro es el 15 de junio de 1955."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Río Negro es el 15 de Junio de 1955."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de Río Negro es RN."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de Río Negro es General Roca, con 99756 habitantes."}
             ]
@@ -199,7 +199,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de Salta es de 1441351."},
                 {"nombre_campo": "superficie", "content": "La superficie de Salta es de 155488."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de Salta es salteño."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Salta es el 17 de diciembre de 1836."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Salta es el 17 de Diciembre de 1836."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de Salta es SA."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de Salta es Salta, con 618364 habitantes."}
             ]
@@ -211,7 +211,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de San Juan es de 822853."},
                 {"nombre_campo": "superficie", "content": "La superficie de San Juan es de 89651."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de San Juan es sanjuanino."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de San Juan es el 1 de marzo de 1820."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de San Juan es el 1 de Marzo de 1820."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de San Juan es SJ."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de San Juan es San Juan, con 112778 habitantes."}
             ]
@@ -223,7 +223,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de San Luis es de 542069."},
                 {"nombre_campo": "superficie", "content": "La superficie de San Luis es de 76748."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de San Luis es puntano."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de San Luis es el 1 de marzo de 1820."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de San Luis es el 1 de Marzo de 1820."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de San Luis es SL."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de San Luis es San Luis, con 180283 habitantes."}
             ]
@@ -235,7 +235,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de Santa Cruz es de 337226."},
                 {"nombre_campo": "superficie", "content": "La superficie de Santa Cruz es de 243943."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de Santa Cruz es santacruceño."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Santa Cruz es el 22 de noviembre de 1956."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Santa Cruz es el 22 de Noviembre de 1956."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de Santa Cruz es SC."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de Santa Cruz es Río Gallegos, con 105796 habitantes."}
             ]
@@ -247,7 +247,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de Santa Fe es de 3544908."},
                 {"nombre_campo": "superficie", "content": "La superficie de Santa Fe es de 133007."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de Santa Fe es santafesino."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Santa Fe es el 10 de mayo de 1816."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Santa Fe es el 10 de Mayo de 1816."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de Santa Fe es SF."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de Santa Fe es Rosario, con 1342619 habitantes."}
             ]
@@ -259,7 +259,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de Santiago del Estero es de 1060906."},
                 {"nombre_campo": "superficie", "content": "La superficie de Santiago del Estero es de 136351."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de Santiago del Estero es santiagueño."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Santiago del Estero es el 27 de abril de 1820."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Santiago del Estero es el 27 de Abril de 1820."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de Santiago del Estero es SE."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de Santiago del Estero es Santiago del Estero, con 296939 habitantes."}
             ]
@@ -271,7 +271,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de Tierra del Fuego, Antártida e Islas del Atlántico Sur es de 185732."},
                 {"nombre_campo": "superficie", "content": "La superficie de Tierra del Fuego, Antártida e Islas del Atlántico Sur es de 21571."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de Tierra del Fuego, Antártida e Islas del Atlántico Sur es fueguino."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Tierra del Fuego, Antártida e Islas del Atlántico Sur es el 26 de abril de 1990."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Tierra del Fuego, Antártida e Islas del Atlántico Sur es el 26 de Abril de 1990."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de Tierra del Fuego, Antártida e Islas del Atlántico Sur es TF."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de Tierra del Fuego, Antártida e Islas del Atlántico Sur es Ushuaia, con 82615 habitantes."}
             ]
@@ -283,7 +283,7 @@
                 {"nombre_campo": "poblacion", "content": "La cantidad de habitantes de Tucumán es de 1731820."},
                 {"nombre_campo": "superficie", "content": "La superficie de Tucumán es de 22524."},
                 {"nombre_campo": "gentilicio", "content": "El gentilicio de Tucumán es tucumano."},
-                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Tucumán es el 25 de noviembre de 1825."},
+                {"nombre_campo": "fecha_autonomia", "content": "La fecha de autonomia de Tucumán es el 25 de Noviembre de 1825."},
                 {"nombre_campo": "abreviatura", "content": "La abreviatura de Tucumán es TU."},
                 {"nombre_campo": "ciudad_mas_poblada", "content": "La ciudad más poblada de Tucumán es San Miguel de Tucumán, con 807708 habitantes."}
             ]
