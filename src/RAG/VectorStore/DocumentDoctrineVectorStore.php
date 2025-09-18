@@ -7,12 +7,20 @@ use NeuronAI\RAG\Document;
 use App\Entity\Document as DocumentEntity;
 use NeuronAI\RAG\VectorStore\VectorStoreInterface;
 use Pgvector\Vector;
+use Pgvector\Doctrine\PgvectorSetup;
+
 
 class DocumentDoctrineVectorStore implements VectorStoreInterface
 {
     public function __construct(
         private EntityManagerInterface $entityManager
-    ) {}
+    ) {
+        try {
+            PgvectorSetup::registerTypes($entityManager);
+        } catch (\Throwable $th) {
+            // Los tipos ya están registrados, no hacer nada
+        }
+    }
 
     public function addDocument(Document $document): VectorStoreInterface
     {
