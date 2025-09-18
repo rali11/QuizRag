@@ -19,12 +19,6 @@ class DocumentDoctrineVectorStoreIntegrationTest extends KernelTestCase
         $kernel = self::bootKernel();
         $this->entityManager = $kernel->getContainer()->get('doctrine')->getManager();
 
-        // Registrar los tipos de Pgvector solo si no existen
-        try {
-            PgvectorSetup::registerTypes($this->entityManager);
-        } catch (\Exception $e) {
-            // Los tipos ya están registrados, no hacer nada
-        }
         $this->vectorStore = new DocumentDoctrineVectorStore($this->entityManager);
 
         $connection = $this->entityManager->getConnection();
