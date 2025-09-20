@@ -15,10 +15,20 @@ services:
     # this creates a service per class whose id is the fully-qualified class name
     App\:
         resource: '../src/'
-         
-    App\EventListener\PgVectorSetupConsoleListener:
-        tags:
-            - { name: kernel.event_listener, event: console.command, method: onConsoleCommand }
+
+    App\RAG\Agent\QuizProvinciasAgent:
+        factory: [null, 'make']
+        arguments:
+            - '@doctrine.orm.default_entity_manager'
+
+    quiz_generator.agent_llm:
+        class: App\Quiz\Service\QuizGenerator
+        autowire: true
+
+    App\Quiz\Service\QuizGeneratorInterface: 
+        alias: 'quiz_generator.agent_llm'
+        public: true
 
     # add more service definitions when explicit configuration is needed
     # please note that last definitions always *replace* previous ones
+

@@ -7,7 +7,6 @@ use App\RAG\Traits\ProvinciasEmbeddingsLoaderTrait;
 use Doctrine\ORM\EntityManagerInterface;
 use NeuronAI\Chat\Messages\UserMessage;
 use Symfony\Bundle\FrameworkBundle\Test\KernelTestCase;
-use Pgvector\Doctrine\PgvectorSetup;
 
 class QuizProvinciasAgentIntegrationTest extends KernelTestCase
 {
@@ -19,13 +18,6 @@ class QuizProvinciasAgentIntegrationTest extends KernelTestCase
     {
         self::bootKernel();
         $entityManager = static::getContainer()->get(EntityManagerInterface::class);
-
-        // Registrar los tipos de Pgvector solo si no existen
-        try {
-            PgvectorSetup::registerTypes($entityManager);
-        } catch (\Exception $e) {
-            // Los tipos ya están registrados, no hacer nada
-        }
 
         $connection = $entityManager->getConnection();
         $connection->executeStatement('DELETE FROM document');
@@ -84,6 +76,6 @@ class QuizProvinciasAgentIntegrationTest extends KernelTestCase
             }
         }
 
-        $this->assertStringContainsString('8 de agosto de 1951', $correctResponse);
+        $this->assertStringContainsString('8 de Agosto de 1951', $correctResponse);
     }
 }

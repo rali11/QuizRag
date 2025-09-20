@@ -26,8 +26,8 @@ class QuizProvinciasAgent extends RAG
             steps: [
                 'Antes de generar una pregunta, realiza una consulta a la base de datos vectorial para obtener información sobre las provincias argentinas.',
                 'Utiliza únicamente los datos recuperados de la base de datos vectorial, para formular preguntas y opciones de respuesta.',
-                'Proporciona siempre 3 opciones de respuesta, diferentes entre sí, y solo una debe ser correcta.',
-                'Dicha opción correcta debe ser exactamente igual al valor obtenido en la base de datos vectoriales. Por ejemplo si es un numero 811.611, no se debe redondear ni nada, se debe entrega exactamente como se obtuvo desde la base de datos vectoriales.',
+                'Proporciona siempre 3 opciones, con valores diferentes entre sí, y solo una debe ser correcta.',
+                'Dicha opción correcta debe ser exactamente igual al valor obtenido en la base de datos vectoriales. Por ejemplo si es un numero 811.611, no se debe redondear ni nada, se debe entrega exactamente como se obtuvo desde la base de datos vectoriales. Si es una fecha como 10 de Agosto de 1995, debe ser exactamente igual, no 10/08/1995 ni 10-08-1995 ni 10 Agosto 1995, sino exactamente como se obtuvo en la base de datos vectoriales.',
                 'Si no hay información suficiente en la base de datos vectorial, responde que no puedes generar la pregunta.',
             ],
             output: [
