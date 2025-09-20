@@ -58,7 +58,7 @@ class RAGIntegrationTest extends KernelTestCase
         $this->loadProvinciasEmbeddings($provincias, $this->agent);
     }
 
-    public function testChatResponseIsCorrect()
+    public function testRAGChatResponseIsCorrect()
     {
         $response = $this->agent->chat(
             new UserMessage('¿Cual es la fecha de autonomia de la provincia Tierra del Fuego?')
